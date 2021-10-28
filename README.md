@@ -1,6 +1,6 @@
 # RootModel
 
-After installing MorphoDynamics, the model can be compiled by typing:
+After installing MorphoDynamics (https://morphographx.org/morphodynamx/), the model can be compiled by typing:
 
 make -B
 
